@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,8BAAmB;AAE3B,IAAI;EACD,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,OAAO;EACf,gBAAgB,EAAE,mDAAmD",
+"sources": ["../../../../%D0%94%D0%B5%D0%BD/Desktop/Test-task/css/test.sass"],
+"names": [],
+"file": "test.css"
+}

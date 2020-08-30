@@ -1,0 +1,69 @@
+@import "bootstrap.min.css";
+
+
+.container_600{
+  max-width: 600px;
+  width: 100%;
+  margin: auto;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+
+header{
+  p{
+    font-size: 20px;
+
+  }
+  .new-season{
+    background-color: #edecec;
+  h1{
+    font-size: 32px;
+    width: 50%;
+  }
+    p{
+      font-size: 14px;
+    }
+    a{
+      font-size: 18px;
+      font-weight: 500;
+    }
+  }
+}
+section{
+  span{
+    font-size: 20px;
+  }
+  .products{
+    .products__item{
+      border: solid 2px #edecec;
+      text-align: center;
+    }
+  }
+  .products__brands{
+    padding: 1rem 0;
+    img {
+      border: 2px solid #edecec;
+      padding: 1rem 0.8rem;
+      margin-bottom: 1rem;
+    }
+  }
+}
+footer{
+  .footer__top{
+    border-bottom: 1px solid #edecec;
+    P {
+      &:first-of-type {
+        font-size: 25px;
+      }
+      &:last-of-type{
+        font-size: 36px;
+        color: red;
+      }
+    }
+  }
+  .footer_bottom{
+    p{
+      font-size: 12px;
+    }
+  }
+}
